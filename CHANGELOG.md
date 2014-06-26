@@ -2,7 +2,7 @@
 
 Enhancements:
 
-  - a new operator color was added.
+  - A new operator color was added.
 
 
 ## 1.0 (June 25, 2014)
