@@ -1,0 +1,82 @@
+#Positronic version 1.1
+
+default.fore: #828382
+default.back: #161719
+default.bold: 
+default.italic: 
+default.eolfilled: 
+commentline.fore: #828382
+commentline.back: 
+commentline.bold: 
+commentline.italic: 
+commentline.eolfilled: 
+number.fore: #C27C41 
+number.back: 
+number.bold: 
+number.italic: 
+number.eolfilled: 
+string.fore: #FFC889
+string.back: 
+string.bold: 
+string.italic: 
+string.eolfilled: 
+character.fore: #FFC889
+character.back: 
+character.bold: 
+character.italic: 
+character.eolfilled: 
+word.fore: #76E0E0
+word.back: 
+word.bold: 
+word.italic: 
+word.eolfilled: 
+triple.fore: #FFFFFF
+triple.back: 
+triple.bold: 
+triple.italic: 
+triple.eolfilled: 
+tripledouble.fore: #FFFFFF
+tripledouble.back: 
+tripledouble.bold: 
+tripledouble.italic: 
+tripledouble.eolfilled: 
+classname.fore: #88A9EF
+classname.back: 
+classname.bold: 
+classname.italic: 
+classname.eolfilled: 
+defname.fore: #50D188
+defname.back: 
+defname.bold: 
+defname.italic: 
+defname.eolfilled: 
+operator.fore: #519EC4
+operator.back: 
+operator.bold: 
+operator.italic: 
+operator.eolfilled: 
+identifier.fore: #FFFFFF
+identifier.back: 
+identifier.bold: 
+identifier.italic: 
+identifier.eolfilled: 
+commentblock.fore: #828382
+commentblock.back: 
+commentblock.bold: 
+commentblock.italic: 
+commentblock.eolfilled: 
+stringeol.fore: #D9453D
+stringeol.back:
+stringeol.bold: 
+stringeol.italic: 
+stringeol.eolfilled: 1
+word2.fore: #519EC4
+word2.back: 
+word2.bold: 
+word2.italic: 
+word2.eolfilled: 
+decorator.fore: #207A7A
+decorator.back: 
+decorator.bold: 
+decorator.italic: 
+decorator.eolfilled: 
