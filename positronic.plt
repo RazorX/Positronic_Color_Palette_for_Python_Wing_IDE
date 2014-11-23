@@ -1,25 +1,28 @@
-# Positronic version 1.1
+# Positronic version 1.2 
 
 name: Positronic 
 
-# Interface background and foreground text are only used if the style preference is set to Match Palette
+# Interface background and foreground text are only used if the Display Style preference is set to Match Palette
 
 background: #292B2E
 foreground: #FFFFFF
 
-# These defaults can be overridden individually by the user in the color selection list in preferences
+# These defaults can be overridden individually by the user in Preferences
 editor-background: #161719
 selection: #14435B
 occurrence: #09212D
 debug-marker: #A13833
 caret: #519EC4
 caret-highlight: #154963
-edge-marker: #519EC4
-bookmark: #2E2E2E
+edge-marker: #828382
+bookmark: #0D0D10
 diff: #000000 
-merged-diff: #09212D 
+merged-diff: #09212D
+fold-mark-foreground: #88A9EF
+fold-mark-background: #161719
 selected-item-background: #166890 
 selected-item-foreground: #FFFFFF
+active-range: #A13833
 icon-primary: #257EAB
 icon-secondary: #DF4B43
 icon-tertiary: #50D188
@@ -42,29 +45,29 @@ highlight-secondary: #161719
 
 # Additional colors with which to populate the color selection list in preferences
 # Primary Color
-palette-1: #C27C41
-palette-2: #FFC889
-palette-3: #76E0E0
-palette-4: #88A9EF
-palette-5: #50D188 
+palette-1: #0D0D10  
+palette-2: #09212D  
+palette-3: #161719
+palette-4: #166890
+palette-5: #207A7A 
 
 # Secondary Color A
-palette-6: #519EC4 
-palette-7: #828382
-palette-8: #D9453D
-palette-9: #207A7A
-palette-10: #FFC889 
+palette-6: #257EAB 
+palette-7: #50D188
+palette-8: #519EC4
+palette-9: #5ABAE9
+palette-10: #76E0E0 
 
 # Secondary Color B
-palette-11: #1A5E7F
-palette-12: #164E69
-palette-13: #064E70
-palette-14: #519EC4
-palette-15: #5DB7E3
+palette-11: #828382
+palette-12: #88A9EF
+palette-13: #A13833
+palette-14: #AC7A41
+palette-15: #B09475
 
 # Complementary Color
-palette-16: #657495
-palette-17: #254181
-palette-18: #1A884A
-palette-19: #A5A5A5
-palette-20: #CDCFCE
+palette-16: #C26B41
+palette-17: #DF4B43
+palette-18: #D9453D
+palette-19: #FFCC91
+palette-20: #FCB360

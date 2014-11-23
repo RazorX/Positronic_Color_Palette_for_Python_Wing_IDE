@@ -6,7 +6,7 @@ Optional color palette for the Python Wing IDE
 
 About
 ==========================
-Positronic is a custom color scheme designed for the Python Wing IDE. The scheme is the color approximation of a #1A5E7F Tetrad with high contrast.
+Positronic is a custom color scheme designed for the Python Wing IDE. The scheme is the color approximation of a #FFCC91 Triad with high contrast.
 
 Author: RazorX aka Daniel Hill 
 
