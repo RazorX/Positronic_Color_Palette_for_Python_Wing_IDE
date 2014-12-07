@@ -43,7 +43,7 @@ highlight-primary: #0D3041
 highlight-secondary: #161719
 
 
-# Additional colors with which to populate the color selection list in preferences
+# Additional colors with which to populate the color selection list in Preferences
 # Primary Color
 palette-1: #0D0D10  
 palette-2: #09212D  
